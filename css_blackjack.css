@@ -1,0 +1,29 @@
+body {
+   background: rgb(0, 128, 85);
+   color: white;
+   text-align: center;
+   font-size: 40px;
+}
+
+h1 {
+   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+   color: orange;
+   font-size: 70px;
+}
+
+#msg-el {
+   font-style: italic;
+   font-weight: bold;
+}
+
+#button {
+   color: rgb(6, 114, 42);
+   background-color: orange;
+   border: none;
+   font-size: 30px;
+   font-weight: bold;
+   padding: 20px 60px;
+   border-radius: 100px;
+   margin: 10px 10px;
+   width: 400px;
+}
